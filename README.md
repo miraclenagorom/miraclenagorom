@@ -6,7 +6,7 @@ I help businesses solve problems, improve performance, and scale using data, str
 
 ---
 
-## 🚀 What I Do
+## What I Do
 
 - 📊 **Product Analytics** — turning raw data into decisions that move the needle
 - 📈 **Growth Strategy** — identifying the levers that actually drive revenue
